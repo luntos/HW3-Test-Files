@@ -1,6 +1,7 @@
 Data description
 data.csv contains the first week of data from AmesWeatherData.csv
 All default values before 2006/01/06 were changed to potential valid values
+Some default values were left between 2006/01/06 and 2006/01/07 for testing
 The columns in the data include "IDentification Name", "USAF", "NCDC", "Date",
 	"HrMn", "Type", "Wind Dir", "Wind Spd", "Temp", "Dewpt", "Slp", and "RHx"
 Line-endings are UNIX-style
